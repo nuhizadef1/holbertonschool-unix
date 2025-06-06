@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 cd ~
+=======
+cd ~
+#!/bin/bash
+>>>>>>> a6229ab (h)
